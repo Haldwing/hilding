@@ -23,11 +23,11 @@ a:active { text-decoration: none; }
     .player-cont{margin-left: 90px;}
 }
 
-@media(max-width: 1400px) and ( min-width: 561px){
+@media(max-width: 1400px) and ( min-width: 481px){
 .youtube{left: 67%} .sub-heading{left: 39.5%} .heading-cont{left: 41%}
 }
 
-@media (max-width: 560px){ 
+@media (max-width: 480px){ 
     .pic-background{height: 1400px;}
     .heading-cont{left: 130px;}
     .sub-heading{left: 120; position: absolute}
